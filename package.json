@@ -1,0 +1,19 @@
+{
+  "name": "syfter",
+  "version": "1.0.0",
+  "description": "An application for a service to sort and sift through waste for your business",
+  "main": "\u001b[D\u001bsrc/server.js)",
+  "scripts": {
+    "test": "export NODE_ENV && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrencety/syfter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrencety/syfter/issues"
+  },
+  "homepage": "https://github.com/lawrencety/syfter#readme"
+}
